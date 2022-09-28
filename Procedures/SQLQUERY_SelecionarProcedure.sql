@@ -1,0 +1,6 @@
+CREATE PROCEDURE Selecionar AS
+BEGIN
+SELECT *
+     FROM
+[Cliente]
+END
